@@ -1,5 +1,3 @@
-// Egyszerű Node.js szerver WebSocket + Webhook támogatással
-// Futtatható Render.com-on vagy Glitch-en
 
 const express = require("express");
 const http = require("http");
